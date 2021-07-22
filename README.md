@@ -14,7 +14,7 @@
 - 🌱 I’m currently learning ...
 <br>
 
-##Use language
+## ✨Use language
 ![JavaScript](https://img.shields.io/badge/-JavaScript-e5cd0c?style=flat-square&logo=JavaScript&labelColor=f7df1e&logoColor=000)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572b6?style=flat-square&logo=CSS3&labelColor=1572b6)
 ![Java](https://img.shields.io/badge/-Java-ce0000?style=flat-square&logo=Java&logoColor=fff)
