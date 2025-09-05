@@ -1,19 +1,28 @@
-<img align="right" alt="" src="https://github-readme-stats.vercel.app/api?username=Marblog&show_icons=true&hide_border=true&icon_color=000&title_color=0066FF&include_all_commits_disable=false&custom_title=Marblog~&count_private=true">
+<div style="display: flex; align-items: flex-start; gap: 20px;">
 
-## Hi welcome to my GitHub repository 👋
+<!-- 左边文字 -->
+<div style="flex: 1; min-width: 250px;">
 
----------------------------------------------------
-> 😀 blush: Nice to meet you
-
-<br>
-
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marblog&layout=compact">
+## Hi, welcome to my GitHub repository 👋
+> 😀 Nice to meet you
 
 - 🖱️ A developer who likes network technology
-- 🌱 I’m currently learning **Vue 3, Kotlin, Go, Spring Boot**
+- 🌱 Currently learning **Vue 3, Kotlin, Go, Spring Boot**
 - 💻 Working on **full-stack web & backend services**
-
 - ⚡ Fun fact: I love experimenting with **data visualization & IoT projects**
+
+</div>
+
+<!-- 右边 GitHub Stats -->
+<div style="flex-shrink: 0; display: flex; flex-direction: column; gap: 10px;">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Marblog&show_icons=true&hide_border=true&icon_color=000&title_color=0066FF&include_all_commits_disable=false&custom_title=Marblog~&count_private=true" width="300"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marblog&layout=compact" width="300"/>
+
+</div>
+</div>
+
 
 ## ✨Use language
 ![JavaScript](https://img.shields.io/badge/-JavaScript-e5cd0c?style=flat-square&logo=JavaScript&labelColor=f7df1e&logoColor=000)
